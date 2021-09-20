@@ -1,10 +1,10 @@
 import React from 'react';
-import Layout from '../components/Layout';
+import Layout from '../../components/Layout/Layout';
 import { connect } from 'react-redux';
-import { removeFromCart } from '../redux/actions/cart';
+import { removeFromCart } from '../../redux/Cart/CartActions';
 import { Link } from 'react-router-dom';
 import './Cart.css';
-import { ReactComponent as Close} from '../assets/icons/close.svg';
+import { ReactComponent as Close} from '../../assets/icons/close.svg';
 
 function Cart(props) {
     const totalSum = (products) => {
@@ -21,9 +21,9 @@ function Cart(props) {
                     props.products.length
                     ? <div className="w-100">
                         <div className="d-flex justify-content-between text-center h4 text-bold">
-                            <p className="w-25">Produs</p>
-                            <p className="w-25">Pret</p>
-                            <p className="w-25">Cantitate</p>
+                            <p className="w-25">Product</p>
+                            <p className="w-25">Price</p>
+                            <p className="w-25">Quantity</p>
                             <p className="w-25">Total</p>
                         </div>
                         {
@@ -46,7 +46,7 @@ function Cart(props) {
                         }
                         <div className="d-flex justify-content-end border-top">
                             <div className="w-25 d-flex align-items-center justify-content-center">
-                            <p className="my-4 text-center font-weight-bold">Total de plată: </p>
+                            <p className="my-4 text-center font-weight-bold">Total: </p>
                             </div>
                             <div className="w-25">
                                 <p className="my-4 text-center">
@@ -56,8 +56,8 @@ function Cart(props) {
                         </div>
                     </div>
                     : <div className="d-flex flex-column align-items-center">
-                        <p className="h3">Nu ai produse în coș!</p>
-                        <Link to="/"><button className="btn btn-outline-dark">Inapoi la home</button></Link>
+                        <p className="h3">Your cart is empty!</p>
+                        <Link to="/"><button className="btn btn-outline-dark">Back to home</button></Link>
                     </div>
                 }
             </div>

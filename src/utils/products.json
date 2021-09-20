@@ -3,234 +3,234 @@
         "items": [
             {
                 "id": 1,
-                "name": "Sneakerși piele Massimo Dutti",
-                "price": 135,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/Rz8lVQa.jpg",
-                "size": 45,
-                "colour": "Negru",
-                "material": "Piele",
-                "brand": "Massimo Dutti",
-                "description": "Sneakerși din piele cu talpă inițial albă, din colecția de toamnă-iarnă 2019, Massimo Dutti."
+                "name": "Rockport Men's Dressports 2 Go Plain Toe Oxford",
+                "price": 30,
+                "currency": "$",
+                "image": "https://i.imgur.com/Za8gZfF.jpeg",
+                "size": 44,
+                "colour": "Brown",
+                "material": "Leather",
+                "brand": "Rockport",
+                "description": "The dressports collection brings in classic designs with the comfort you expect from Rockport."
             },
             {
                 "id": 2,
-                "name": "Teniși negri Polo Ralph Lauren",
-                "price": 100,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/Og3Oh24.jpg",
-                "size": 45,
-                "colour": "Negru",
-                "material": "Pânză",
-                "brand": "Polo Ralph Lauren",
-                "description": "Teniși din pânză cu talpă inițial albă, din colecția de primăvară-vară 2019, Fashion Days."
+                "name": "Midtown Cap Toe Oxford Men's Dress Shoes",
+                "price": 90,
+                "currency": "$",
+                "image": "https://i.imgur.com/07nM3Wv.jpeg",
+                "size": 42,
+                "colour": "Cognac",
+                "material": "Leather",
+                "brand": "Florsheim",
+                "description": "The clean design of the Florsheim Midtown cap toe oxford is highlighted by its simple stitching details and modern silhouette."
             },
             {
                 "id": 3,
-                "name": "Ghete din piele maro Massimo",
-                "price": 185,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/zoqSu87.jpg",
-                "size": 45,
-                "colour": "Maro",
-                "material": "Piele",
-                "brand": "Massimo Dutti",
-                "description": "Ghete maro din piele, din colecția de toamnă-iarnă 2017, Massimo Dutti."
+                "name": "Dockers Mens Irving Slip Resistant Oxford Shoes",
+                "price": 50,
+                "currency": "$",
+                "image": "https://i.imgur.com/9FNAxQJ.jpeg",
+                "size": 43,
+                "colour": "Black",
+                "material": "Leather",
+                "brand": "Dockers Footwear",
+                "description": "Keep your style sleek, refined, and worry-free with these slip-resistant Dockers dress shoes."
             }
         ],
-        "image": "https://i.imgur.com/X0qldXO.jpg",
-        "name": "Încălțăminte",
-        "description": "Ghete, pantofi, sneakerși: finețe garantată!"
+        "image": "https://i.imgur.com/FlHQ7co.jpeg",
+        "name": "Shoes",
+        "description": "Best quality shoes for men!"
     },
-    "sweaters": {
+    "suits": {
         "items": [
             {
                 "id": 4,
-                "name": "Pulovăr finuț cu guler",
-                "price": 95,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/6afzuEr.jpg",
-                "size": "L",
-                "colour": "Maro",
-                "material": "Cașmir",
-                "brand": "DS Damat",
-                "description": "Pulovăr din cașmir, slim fit, colecția toamnă-iarnă 2019, DS Damat."
+                "name": "TED BAKER MAEVEJ STERLING CHECK SUIT IN BLUE",
+                "price": 400,
+                "currency": "$",
+                "image": "https://i.imgur.com/Ezl3ubo.jpeg",
+                "size": "M",
+                "colour": "Blue",
+                "material": "Wool",
+                "brand": "TED BAKER",
+                "description": "Fully lined with graphic print, Modern fit, Built-in pocket sqare, 100% Wool with Polyester lining and Viscose/Acetate sleeve lining."
             },
             {
                 "id": 5,
-                "name": "Pulovăr multicolor",
-                "price": 105,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/s0VytKc.jpg",
-                "size": "L",
-                "colour": "Multicolor",
-                "material": "Bumbac",
-                "brand": "McNeal",
-                "description": "Pulovăr multicolor, colecția toamnă-iarnă 209, McNeal."
+                "name": "PRADA Single-breasted cotton suit",
+                "price": 2000,
+                "currency": "$",
+                "image": "https://i.imgur.com/sN96GOK.jpeg",
+                "size": "M",
+                "colour": "Black",
+                "material": "Cotton",
+                "brand": "PRADA",
+                "description": "This black cotton suit is a stalwart showcase of Prada's tailoring expertise. It's crafted in Italy comprised of a single-breasted jacket and trousers, the former of which is shaped with padded shoulders and notch lapels and finished with three front pockets. In turn, the trousers are crafted to a slim fit with a mid-rise waist and finished with coordinating belt loops and unfinished hems to allow for personal adjustments."
             },
             {
                 "id": 6,
-                "name": "Pulovăr călduros și frumos",
-                "price": 165,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/BWGgzlK.jpg",
+                "name": "PAUL SMITH SOHO TAILORED FIT SUIT IN GREY",
+                "price": 650,
+                "currency": "$",
+                "image": "https://i.imgur.com/8D48Wd7.jpeg",
                 "size": "L",
-                "colour": "Multicolor",
-                "material": "Lână",
-                "brand": "SELECTED",
-                "description": "Pulovăr din lână, în carouri, colecția toamnă-iarnă 2019, SELECTED."
+                "colour": "Grey",
+                "material": "Wool",
+                "brand": "PAUL SMITH",
+                "description": "Contrast lining, Unfinished trouser, Notched lapel with Melton wool under-collar, Flap pockets with contrast lining, 100% Wool, Made in Italy."
             },
             {
                 "id": 7,
-                "name": "Pulovăr din lână",
-                "price": 160,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/dTcMbHT.jpg",
+                "name": "EMPORIO ARMANI M-LINE 2 PIECE WOVEN SUIT IN NAVY CHECK",
+                "price": 780,
+                "currency": "$",
+                "image": "https://i.imgur.com/AJjuS93.jpeg",
                 "size": "L",
-                "colour": "Crem",
-                "material": "Lână",
-                "brand": "Massimo Dutti",
-                "description": "Pulovăr din lână cu model, colecția toamnă-iarnă 2019, Massimo Dutti."
+                "colour": "Navy",
+                "material": "Wool",
+                "brand": "EMPORIO ARMANI",
+                "description": "Tailored Emporio Armani suit, characterised by an impeccable cut and the special attention paid to the selection of the finest materials. An Emporio Armani suit guarantees elegance at every occasion, from the office to a gala dinner. Made from virgin wool, it consists of a lapel jacket with side slits, flapped welt pockets and a breast pocket suitable for a pocket square. The unfinished trousers have side pockets. "
             }
         ],
-        "image": "https://i.imgur.com/SZU7liE.jpg",
-        "name": "Pulovere",
-        "description": "Pulovărașe elegănțele, slim, clasă superioară."
+        "image": "https://i.imgur.com/9brRnSt.jpeg",
+        "name": "Suits",
+        "description": "Special suits for special occasions."
     },
     "pants": {
         "items": [
             {
                 "id": 8,
-                "name": "Blugi bleumarin slim fit",
-                "price": 35,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/VhpATO8.jpg",
-                "size": "34",
-                "colour": "Bleumarin închis",
-                "material": "Blug",
-                "brand": "DS Damat",
-                "description": "Blugi bleumarin, slim fit, colecția primăvară-vară 2019, DS Damat."
+                "name": "DIESEL THOMMER 0688H SLIM JEANS IN BLACK",
+                "price": 55,
+                "currency": "$",
+                "image": "https://i.imgur.com/ALrlEQ7.jpeg",
+                "size": "32-34",
+                "colour": "Black",
+                "material": "Denim",
+                "brand": "DIESEL",
+                "description": "Slim style Diesel Thommer jeans with a clean design. The leg narrows from knee to ankle and has more room on the thigh."
             },
             {
                 "id": 9,
-                "name": "Blugi negri slim fit",
-                "price": 40,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/weiI07t.jpg",
+                "name": "7 FOR ALL MANKIND SLIMMY TAPERED LUXE JEANS IN DEEP BLUE",
+                "price": 100,
+                "currency": "$",
+                "image": "https://i.imgur.com/sE1zRKS.jpeg",
                 "size": "34",
-                "colour": "Negru-gri",
-                "material": "Blug",
-                "brand": "DS Damat",
-                "description": "Blugi negri, slim fit, colecția toamnă-iarnă 2019, DS Damat."
+                "colour": "Deep Blue",
+                "material": "Denim",
+                "brand": "7 FOR ALL MANKIND",
+                "description": "Men's 7 For all Mankind’s jeans, the Slimmy Tapered is a modern slim fit men’s jean, designed with a 32” inseam, mid-rise and narrower leg opening than the original Slimmy. Luxe Performance Plus Deep Blue is a smart-casual denim wash with subtle wear patterns and tonal hardware. Created using a unique blend of high stretch fibres for elevated performance and unrivalled comfort."
             }
         ],
-        "image": "https://i.imgur.com/srQCDRN.jpg",
-        "name": "Pantaloni/blugi",
-        "description": "Jeanși și pantaloni pentru baieții care și-o ard patroni!"
+        "image": "https://i.imgur.com/Jz7Ecl1.jpeg",
+        "name": "Jeans",
+        "description": "Casual jeans that can be worn anywhere."
     },
     "jackets": {
         "items": [
             {
                 "id": 10,
-                "name": "Haină lungă din lână virgină",
-                "price": 210,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/IXrZitQ.jpg",
-                "size": "L",
-                "colour": "Gri închis",
-                "material": "Lână virgină",
-                "brand": "Peek and Cloppenburg",
-                "description": "Haină lungă din lână virgină, colecția toamnă-iarnă 2018, Peek and Cloppenburg."
+                "name": "Canada Goose Chateau Down Parka",
+                "price": 700,
+                "currency": "$",
+                "image": "https://i.imgur.com/9cyNPWG.jpeg",
+                "size": "M",
+                "colour": "Black",
+                "material": "Polyester/cotton",
+                "brand": "Canada Goose",
+                "description": "Drawstring hood with top cinch strap, Front two-way zip with button closure, Long sleeves with interior ribbed cuffs, logo patch on left sleeve, Chest zip pocket, two side slit pockets, back logo locker loop, Interior zip pocket, two interior patch pockets, lined."
             },
             {
                 "id": 11,
-                "name": "Geacă bleumarin cu glugă detașabilă",
-                "price": 250,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/eCZd7PU.jpg",
+                "name": "BEN SHERMAN Navy Melton Overcoat",
+                "price": 100,
+                "currency": "$",
+                "image": "https://i.imgur.com/G4mgAl6.jpeg",
                 "size": "L",
-                "colour": "Bleumarin",
-                "material": "Poliester",
-                "brand": "DS Damat",
-                "description": "Geacă bleumarin cu glugă detașabilă, colecția toamnă-iarnă 2019, DS Damat."
+                "colour": "Navy",
+                "material": "Wool/Polyester",
+                "brand": "BEN SHERMAN",
+                "description": "Cool and progressive, Ben Sherman tailoring is adept in smart, refined pieces and casual suiting. This navy overcoat is a stylish and comfortable layering piece, perfect for the coming season. This overcoat features a single breasted 3 button front and notch lapel, with complementary internals. This overcoat will team perfectly with any Ben Sherman new season suit for a sharp daytime ensemble."
             }
         ],
-        "image": "https://i.imgur.com/81I6Oab.jpg",
-        "name": "Geci/Haine",
-        "description": "Confortabile, călduroase și nu arăți ca un cartof!"
+        "image": "https://i.imgur.com/pxGU28l.jpeg",
+        "name": "Jackets/Coats",
+        "description": "Comfortable and warm jackets and coats."
     },
-    "tshirts": {
+    "shirts": {
         "items": [
             {
                 "id": 12,
-                "name": "Tricou în dungi",
-                "price": 90,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/BWvzCwB.jpg",
+                "name": "JEFF BANKS Stvdio Fly Front Wing Collar Shirt and Bow Tie Set",
+                "price": 45,
+                "currency": "$",
+                "image": "https://i.imgur.com/fE8PCWX.jpeg",
                 "size": "L",
-                "colour": "Multicolor",
-                "material": "Bumbac",
-                "brand": "Lacoste",
-                "description": "Tricou în dungi, colecția primăvară-vară 2019, Lacoste."
+                "colour": "White",
+                "material": "Cotton",
+                "brand": "JEFF BANKS",
+                "description": "This sharp, superbly crafted shirt features a wing collar and fly-front placket, with double cuffs and a cuff tab detailing – perfect for cufflinks."
             },
             {
                 "id": 13,
-                "name": "Tricou de ping pong",
-                "price": 110,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/4BbF4TO.jpg",
-                "size": "L",
-                "colour": "Roșu",
-                "material": "Poliester",
-                "brand": "Li Ning",
-                "description": "Tricou de ping pong cu imprimeu cu dragon, purtat de jucatorii naționalei chinei în 2013."
+                "name": "BEN SHERMAN Geo Print Shirt",
+                "price": 35,
+                "currency": "$",
+                "image": "https://i.imgur.com/9jwuhdg.jpeg",
+                "size": "M",
+                "colour": "Anise",
+                "material": "Cotton",
+                "brand": "BEN SHERMAN",
+                "description": "This eye-catching, geo print shirt from Ben Sherman features long sleeves, a slim fit and a classic point, concealed button-down collar – all in 100% cotton for supreme comfort and style."
             },
             {
                 "id": 14,
-                "name": "Tricou original BVB cu autograf",
-                "price": 1909,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/etIsbHV.jpg",
+                "name": "TED BAKER White Slim Fit Shirt",
+                "price": 70,
+                "currency": "$",
+                "image": "https://i.imgur.com/CVF3KJT.jpeg",
                 "size": "L",
-                "colour": "Galben-Negru",
-                "material": "Poliester",
-                "brand": "Puma",
-                "description": "Tricoul purtat de Borussia Dortmund în sezonul competițional 2018-2019, cu numarul 7 și numele 'SANCHO'. Tricoul este semnat de portarul Borussiei, Roman Burki."
+                "colour": "White",
+                "material": "Cotton",
+                "brand": "TED BAKER",
+                "description": "Loaded with detail, Ted Baker's button-ups are a step above the rest, with branded buttons and contrast internal lining, all in a long-sleeved cotton button-up for the discerning trendsetter."
             }
         ],
-        "image": "https://i.imgur.com/l27WtFL.jpg",
-        "name": "Tricouri",
-        "description": "Și de băiețeală și de sport."
+        "image": "https://i.imgur.com/ojCFpC1.jpeg",
+        "name": "Shirts",
+        "description": "Take your occasionwear to new heights."
     },
     "accesories": {
         "items": [
             {
                 "id": 15,
-                "name": "Fular TJ cu două fețe",
-                "price": 85,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/rSVUiLO.jpg",
+                "name": "LIMEHAUS Burgundy Tie & Geo Hank Set",
+                "price": 10,
+                "currency": "$",
+                "image": "https://i.imgur.com/dJAZEjk.jpeg",
                 "size": "Universal",
-                "colour": "Gri-Bleumarin",
-                "material": "Cașmir",
-                "brand": "Trussardi Jeans",
-                "description": "Fular cu imprimeu, din colecția toamnă-iarnă 2018, Trussardi Jeans."
+                "colour": "Burgundy",
+                "material": "Polyester",
+                "brand": "LIMEHAUS",
+                "description": "The fashion-forward Limehaus brand offers a sharp, slim blade tie at an affordable price, this set offers a burgundy tie and complementing geo design hankie that is perfect to complete any outfit."
             },
             {
                 "id": 16,
-                "name": "Mănuși din piele",
-                "price": 60,
-                "currency": "LEI",
-                "image": "https://i.imgur.com/LbjGaZ1.jpg",
-                "size": "L",
-                "colour": "Negru",
-                "material": "Piele",
+                "name": "SCOTT & TAYLOR Silver Gold Stripe Cufflinks",
+                "price": 6,
+                "currency": "$",
+                "image": "https://i.imgur.com/Bb5unq6.jpeg",
+                "size": "Universal",
+                "colour": "Silver Metal",
+                "material": "Metal",
                 "brand": "DS Damat",
-                "description": "Mănuși din piele, cu model, din colecția toamnă-iarnă 2018, DS Damat."
+                "description": "This pair of silver, gold stripe cufflinks are presented in a branded gift box and are the perfect addition to any Scott & Taylor suit, shirt combination."
             }
         ],
-        "image": "https://i.imgur.com/qw3wDj8.jpg",
-        "name": "Accesorii",
-        "description": "Fulare, căciuli, mănuși: nu mai sta pe gânduri, cumpără-le acuși!"
+        "image": "https://i.imgur.com/mxsW2H3.jpeg",
+        "name": "Accessories",
+        "description": "For extra elegance."
     }
 }

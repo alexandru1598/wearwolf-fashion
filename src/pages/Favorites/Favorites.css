@@ -1,0 +1,13 @@
+.fav-item img {
+    max-width: 250px;
+    height: 100%;
+}
+
+.delete {
+    position: absolute;
+    cursor: pointer;
+}
+
+.fav-item {
+    height: 100%;
+}
