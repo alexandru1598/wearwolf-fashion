@@ -4,6 +4,9 @@ Wearwolf Fashion is an online clothing store for men.
 
 It was built using ReactJs, React Router, Redux, Redux Thunk, Firebase and Bootstrap.
 
+## Demo Version:
+https://wearwolf-fashion.herokuapp.com/
+
 ## Functionalities:
 On click, each item on the site will redirect the user to that specific item's page.
 
